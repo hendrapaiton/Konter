@@ -1,0 +1,46 @@
+# File .gitignore untuk proyek Flet
+
+# Environment variables
+.env
+.env.local
+
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Flet specific
+.flet/
+flet_build/
+*.flet
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE & editor configs
+.idea/
+.vscode/
+*.code-workspace
+
+# Log files
+*.log
+logs/
+
+# Build outputs
+web/
+android/
+ios/
+macos/
+linux/
+windows/

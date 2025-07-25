@@ -1,2 +1,2 @@
 flet==0.70.0.dev5089
-pymongo==4.13.2
+duckdb==1.3.2
